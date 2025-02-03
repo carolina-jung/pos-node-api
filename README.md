@@ -1,8 +1,8 @@
 # 📌 Projeto de API em Node.js
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/status-em%20construção-yellow?style=for-the-badge)
+![Badge em Desenvolvimento](https://img.shields.io/badge/status-concluído-green?style=for-the-badge)
 
-Este projeto está sendo desenvolvido na disciplina Plataformas Back End - Node.js da pós-graduação em Desenvolvimento Full-Stack pela PUC Minas EAD.
+Este projeto foi desenvolvido na disciplina Plataformas Back End - Node.js da pós-graduação em Desenvolvimento Full-Stack pela PUC Minas EAD.
 
 ## 🚀 Tecnologias Utilizadas
 
