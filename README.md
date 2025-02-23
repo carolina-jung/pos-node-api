@@ -2,7 +2,7 @@
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/status-concluído-green?style=for-the-badge)
 
-Este projeto foi desenvolvido na disciplina Plataformas Back End - Node.js da pós-graduação em Desenvolvimento Full-Stack pela PUC Minas EAD.
+Este projeto foi desenvolvido na disciplina Plataformas Back End - Node.js da pós-graduação em Desenvolvimento Full-Stack pela PUC Minas EAD. Consiste em uma API REST para a realização de operações CRUD de produtos.
 
 ## 🚀 Tecnologias Utilizadas
 
